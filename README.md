@@ -3,6 +3,6 @@
 ## Slider, DropDown, Cards, Pager, BottomAppBar, Drawer
 
 # configuraciones
-<!--para pedir permiso al usario para internet-->
-<uses-permission android:name="android.permission.INTERNET"/>
+///<!--para pedir permiso al usario para internet-->
+////<uses-permission android:name="android.permission.INTERNET"/>
 ## esta configuracion se hace en el manifest xml
