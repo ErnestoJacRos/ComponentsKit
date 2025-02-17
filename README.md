@@ -4,5 +4,5 @@
 
 # configuraciones
 ## <!--para pedir permiso al usario para internet-->
-  ##  <uses-permission android:name="android.permission.INTERNET"/>
-   ## esta configuracion se hace en el manifest xml
+##  <uses-permission android:name="android.permission.INTERNET"/>
+## esta configuracion se hace en el manifest xml
